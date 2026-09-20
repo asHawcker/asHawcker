@@ -1,7 +1,7 @@
 # About Me:
-👯 I’m looking to collaborate on Linux and systems projects<br>🌱 I’m currently learning Linux and LLVM
+I’m looking to collaborate on Linux and systems projects<br>I’m currently learning Linux and LLVM
 
-## Devlog: [https://ashawcker.github.io]
+### Devlog: [https://ashawcker.github.io]
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag71/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anurag.iiitdm@gmail.com) 
