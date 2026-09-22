@@ -4,7 +4,7 @@
 
 - I’m currently learning **Linux** and **LLVM** 
 
-- Visit my devlog: [https://ashawcker.github.io](https://ashawcker.github.io)
+- Visit my devlog: [https://anuragsharma.pages.dev/](https://anuragsharma.pages.dev/)
 
 - Mail: **anurag.iiitdm@gmail.com**
 
